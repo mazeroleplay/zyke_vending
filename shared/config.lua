@@ -133,24 +133,24 @@ Config.Settings = {
 		-- [====================] SNACK MACHINES [====================]
 
 		-- https://forge.plebmasters.de/objects/prop_vend_snak_01_tu
-		[`prop_vend_snak_01_tu`] = {
-			interactOffset = vector3(0.0, -0.97, 0.05),
-			items = {
-				{name = "phatchips_bigcheese", prop = "phatchips_bigcheese", price = 2},
-				{name = "phatchips_habernero", prop = "phatchips_habernero", price = 2},
-				{name = "meteorite_bar", prop = "meteorite_bar", price = 2},
-			}
-		},
+		-- [`prop_vend_snak_01_tu`] = {
+		-- 	interactOffset = vector3(0.0, -0.97, 0.05),
+		-- 	items = {
+		-- 		{name = "phatchips_bigcheese", prop = "phatchips_bigcheese", price = 2},
+		-- 		{name = "phatchips_habernero", prop = "phatchips_habernero", price = 2},
+		-- 		{name = "meteorite_bar", prop = "meteorite_bar", price = 2},
+		-- 	}
+		-- },
 
 		-- https://forge.plebmasters.de/objects/prop_vend_snak_01
-		[`prop_vend_snak_01`] = {
-			interactOffset = vector3(0.0, -0.97, 0.05),
-			items = {
-				{name = "phatchips_bigcheese", prop = "phatchips_bigcheese", price = 2},
-				{name = "phatchips_habernero", prop = "phatchips_habernero", price = 2},
-				{name = "meteorite_bar", prop = "meteorite_bar", price = 2},
-			}
-		},
+		-- [`prop_vend_snak_01`] = {
+		-- 	interactOffset = vector3(0.0, -0.97, 0.05),
+		-- 	items = {
+		-- 		{name = "phatchips_bigcheese", prop = "phatchips_bigcheese", price = 2},
+		-- 		{name = "phatchips_habernero", prop = "phatchips_habernero", price = 2},
+		-- 		{name = "meteorite_bar", prop = "meteorite_bar", price = 2},
+		-- 	}
+		-- },
 
 		-- [====================] WATER MACHINES [====================]
 
